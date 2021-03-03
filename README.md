@@ -22,3 +22,4 @@
 
 ## *Acknowledgements*
 The Official [Trader Joes!](https://www.traderjoes.com/) Website    
+I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with Trader Joes other than the fact that I love it.
