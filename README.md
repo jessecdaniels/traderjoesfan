@@ -1,6 +1,6 @@
 
-#                       **TRADER JOES FAN SITE**  
-## :shopping_cart: :avocado: :green_salad: :stew: :plate_with_cutlery:
+#                           **TRADER JOES FAN SITE**  
+# :shopping_cart: :avocado: :green_salad: :stew: :plate_with_cutlery:
 
 ### Problem: Create a website which main feature is a recipe search using Trader Joes products as the input  
 ### Solution: Use public API to get create recipe search and print out
