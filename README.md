@@ -20,4 +20,4 @@
     4. Contact form  
 
 ## *Acknowledgements*
-    - The Official Website of [Trader Joes!](https://www.traderjoes.com/)    
+    - The Official Website of [Trader Joes!](http://www.traderjoes.com/)    
