@@ -18,3 +18,6 @@
     2. Searching for low sodium items via CSV
     3. Link and display Trader Joes social media accounts
     4. Contact form  
+
+## *Acknowledgements*
+    - The Official Website of [Trader Joes](https://www.traderjoes.com)    
