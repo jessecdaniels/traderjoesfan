@@ -1,5 +1,5 @@
 
-#                           **TRADER JOES FAN SITE**  
+# **TRADER JOES FAN SITE**  
 # :shopping_cart: :avocado: :green_salad: :stew: :plate_with_cutlery:
 
 ### Problem: Create a website which main feature is a recipe search using Trader Joes products as the input  
@@ -19,6 +19,7 @@
     2. Searching for low sodium items via CSV
     3. Link and display Trader Joes social media accounts
     4. Contact form  
+    5. TJ Bio and store photos
 
 ## *Acknowledgements*
 The Official [Trader Joes!](https://www.traderjoes.com/) Website    
