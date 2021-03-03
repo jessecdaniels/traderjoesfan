@@ -13,10 +13,36 @@
     // link and display Trader Joes social media accounts
     // contact form  
 
+// -----------
+// const https = require('https');
 
+// const request = https.get('https://traderjoeapi.jackgisel.com/api/recipes', function(response) {
+// console.log(response.statusCode);
+// });
+// ------------
 
-const https = require('https');
+document.addEventListener('DOMContentLoaded', () => {
+const searchBtn = document.querySelector('.recipe-button');
+const randomRecipe = document.querySelector('.random-recipe'); 
+const recipeDisplay = document.querySelector('recipe-display');
 
-const request = https.get('https://traderjoeapi.jackgisel.com/api/recipes', function(response) {
-  console.log(response.statusCode);
-});
+// ------------------------------------------
+//  FETCH FUNCTIONS
+// ------------------------------------------
+
+function getData() {
+fetch('https://traderjoeapi.jackgisel.com/api/recipes')
+  .then(response => 
+    return response.json())
+  .then(data => {
+      console.log(data)
+      const title = data[0].title
+      const ingredients = data[0].ingredients.
+
+      randomRecipe.innerHTML = title + ingredients
+      directionsDisplay.innerHTML = directions
+})
+}
+
+startBtn.addEventListener('click', getData)
+})
